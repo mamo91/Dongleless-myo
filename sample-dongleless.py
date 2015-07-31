@@ -23,7 +23,7 @@ def fingers_spread(myo):
 
 def double_tap(myo):
     print("double_tap")
-
+ 
 def unknown(myo):
     print("unknown")
 
