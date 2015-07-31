@@ -3,7 +3,7 @@
 
 
 ### See myohw.h for more complete instructions on command structure, formats, etc.
-
+ 
 
 services = {  #*********************chse - characteristic, service
     0x0001: "ControlService"                , #< Myo info service
