@@ -1,7 +1,7 @@
 #Dongleless Myo
 =======================
 
-For if you don't have your dongle but just need to control a linux system anyway. 
+For if you don't have your dongle but just need to control a linux system anyway, with a different dongle or you computer's built in bluetooth.
 
 
 
