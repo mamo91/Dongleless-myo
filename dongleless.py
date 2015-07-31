@@ -12,6 +12,14 @@ import subprocess
 import sys
 import os
 
+# Author:
+#    Max Leefer 
+# Source:
+#    https://github.com/mamo91/Dongleless-myo
+# Free to modify and use as you wish, so long as my name remains in this file.
+# Special thanks to the support at Thalmic labs for their help, and to IanHarvey for bluepy
+
+
 # Notes
 # If the Myo is unsynced while the program is running, you will need to plug it in and let it fall asleep before poses will work again.
 # Mixes up fist and wave in when worn on left arm with led toward elbow
